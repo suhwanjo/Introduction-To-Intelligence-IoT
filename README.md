@@ -1,4 +1,4 @@
-# Introduction_To_Intelligence_IoT(2022-2)
+# Introduction-To-Intelligence-IoT(2022-2)
 
   지능 IoT 개론 프로젝트
   
