@@ -6,3 +6,5 @@
     
     
 최종 발표 영상 링크 : https://youtu.be/bld3VySmw9Q
+
+프로젝트 정리 Notion 링크 : https://www.notion.so/a3faeb08d4d24be7b44052c38ab04a73?pvs=4
